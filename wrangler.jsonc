@@ -1,7 +1,0 @@
-{
-	    "name": "movie-api-search",
-  	    "compatibility_date": "2025-04-15",
-  	    "assets": {
- 	    "directory": "./dist"
-    }
-  }
